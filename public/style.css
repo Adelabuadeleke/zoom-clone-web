@@ -92,7 +92,8 @@ body {
   color: #eb534b;
 }
 
-.unmute .stop{
+.unmute,
+.stop{
   color: #cc3b33;
 }
 
